@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/ArysonEmailMigration4Win - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/aspose.pdf-21.3.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/aspose-email-21.7-jdk16.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/aspose-words-21.3.0-jdk17.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/javax.xml.bind (1).jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/joda-time-2.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/lablib-checkboxtree-3.2 (6).jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/opencsv-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/opencsv-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Aryson_Project_jar/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
